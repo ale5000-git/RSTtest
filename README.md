@@ -1,2 +1,0 @@
-# RSTtest
-Only for testing
